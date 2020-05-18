@@ -1,0 +1,33 @@
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\Newtonsoft.Json.xml
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\AccesoDatos.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\Newtonsoft.Json.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\AccesoDatos.pdb
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\Newtonsoft.Json.xml
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\AccesoDatos.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\Newtonsoft.Json.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\AccesoDatos.pdb
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\bin\Debug\Newtonsoft.Json.xml
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb

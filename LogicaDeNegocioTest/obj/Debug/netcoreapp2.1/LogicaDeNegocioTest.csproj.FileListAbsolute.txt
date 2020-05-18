@@ -1,0 +1,78 @@
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.deps.json
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.json
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.dev.json
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfo.cs
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CopyComplete
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.deps.json
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.json
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.dev.json
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.pdb
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csprojAssemblyReference.cache
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CoreCompileInputs.cache
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfoInputs.cache
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfo.cs
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CopyComplete
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+E:\Datos_User\Downloads\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.genruntimeconfig.cache
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.deps.json
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.json
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.dev.json
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.pdb
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csprojAssemblyReference.cache
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CoreCompileInputs.cache
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfoInputs.cache
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfo.cs
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CopyComplete
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+E:\Datos_User\Desktop\UNIVERSIDAD\2020-01\Software2\SeguimientoSFW2 (1)\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.genruntimeconfig.cache
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.deps.json
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.json
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.dev.json
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.dll
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.pdb
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CopyComplete
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\bryan\OneDrive\Escritorio\Software23s\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb

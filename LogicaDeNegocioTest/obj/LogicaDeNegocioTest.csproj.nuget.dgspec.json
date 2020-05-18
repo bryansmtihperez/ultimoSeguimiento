@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocioTest\\LogicaDeNegocioTest.csproj": {}
+  },
+  "projects": {
+    "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\AccesoDatos\\AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\AccesoDatos\\AccesoDatos.csproj",
+        "projectName": "AccesoDatos",
+        "projectPath": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\AccesoDatos\\AccesoDatos.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocioTest\\LogicaDeNegocioTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocioTest\\LogicaDeNegocioTest.csproj",
+        "projectName": "LogicaDeNegocioTest",
+        "projectPath": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocioTest\\LogicaDeNegocioTest.csproj",
+        "packagesPath": "C:\\Users\\Daniela\\.nuget\\packages\\",
+        "outputPath": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocioTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Daniela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocio\\LogicaDeNegocio.csproj": {
+                "projectPath": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocio\\LogicaDeNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocio\\LogicaDeNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocio\\LogicaDeNegocio.csproj",
+        "projectName": "LogicaDeNegocio",
+        "projectPath": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\LogicaDeNegocio\\LogicaDeNegocio.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\AccesoDatos\\AccesoDatos.csproj": {
+                "projectPath": "E:\\Datos_User\\Desktop\\UNIVERSIDAD\\2020-01\\Software2\\SeguimientoSFW2 (1)\\SeguimientoSFW2\\AccesoDatos\\AccesoDatos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
